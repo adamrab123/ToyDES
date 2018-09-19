@@ -1,4 +1,4 @@
-# Toy DES Implementation for CSCI 4230
+# Toy DES Implementation
 
 This simplified DES implementation works on 8-bit blocks and uses a 10-bit key, with 2 rounds used for it's encryption.
 
