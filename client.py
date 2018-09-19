@@ -4,12 +4,13 @@ import sys
 from time import sleep
 import library
 
+# this will serve as the "client" for our implementation
 def Main():
         host = "127.0.0.1"
         port = 5000
+        #necessary to connect to the server
         mySocket = socket.socket()
         mySocket.connect((host,port))
-         
         
         message = input("Enter the message you want to encrypt -> ")
         #encrypting the message using DES
