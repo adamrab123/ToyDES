@@ -90,7 +90,3 @@ The decryption is the same exact algorithmic implementation as the encryption an
 
 1. https://shakeelosmani.wordpress.com/2015/04/13/python-3-socket-programming-example/ 
 2. https://stackoverflow.com/questions/7396849/convert-binary-to-ascii-and-vice-versa
-
-
-
-# ToyDES
