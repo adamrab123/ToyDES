@@ -7,7 +7,7 @@ import library
 # this will serve as the "client" for our implementation
 def Main():
         host = "127.0.0.1"
-        port = 5000
+        port = 5001
         #necessary to connect to the server
         mySocket = socket.socket()
         mySocket.connect((host,port))
